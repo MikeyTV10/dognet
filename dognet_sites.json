@@ -1,1 +1,6 @@
-
+{
+  "example": {
+    "type": "github_repo",
+    "target": "https://github.com/MikeyTV10/dogsiteexample"
+  }
+}
