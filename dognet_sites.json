@@ -6,5 +6,10 @@
   "dogtube": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogtube"
+  },
+  "dog": {
+    "type": "github_repo",
+    "target": "https://github.com/MikeyTV10/dogsitedogdogdog",
+    "tld": "dog"
   }
 }
