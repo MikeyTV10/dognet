@@ -2,12 +2,10 @@
   "example": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogsiteexample"
-    "tld": "pup"
   },
   "dogtube": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogtube"
-    "tld": "pup"
   },
   "dog": {
     "type": "github_repo",
