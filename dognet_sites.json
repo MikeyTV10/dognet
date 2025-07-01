@@ -20,6 +20,6 @@
   "cat": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
-    "tld": "dog"
+    "tld": "cat"
   }
 }
