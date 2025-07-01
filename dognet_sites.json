@@ -12,9 +12,14 @@
     "target": "https://github.com/MikeyTV10/dogsitedogdogdog",
     "tld": "dog"
   },
-    "forvideoistemp": {
+  "forvideoistemp": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogsiteforvideo",
     "tld": "wow"
+  },
+  "cat": {
+    "type": "github_repo",
+    "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
+    "tld": "dog"
   }
 }
