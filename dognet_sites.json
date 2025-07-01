@@ -22,9 +22,9 @@
     "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
     "tld": "cat"
   },
-  "fourletters": {
+  "officialdomain": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
-    "tld": "nice"
+    "tld": "official"
   }
 }
