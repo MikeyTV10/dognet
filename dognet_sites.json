@@ -12,11 +12,6 @@
     "target": "https://github.com/MikeyTV10/dogsitedogdogdog",
     "tld": "dog"
   },
-  "cat": {
-    "type": "github_repo",
-    "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
-    "tld": "cat"
-  },
   "officialdomain": {
     "type": "github_repo",
     "target": "https://github.com/MikeyTV10/dogsitedogcatcat",
